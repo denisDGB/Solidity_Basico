@@ -12,3 +12,4 @@ Este es un cambio desde el *Github*, **en su vversion web**
 * Esto se puede hacer desde el IDE de REMIX
 * Esto se puede hacer en local desde una terminal
 * Esto se puede hacer desde Visual Studio Code
+* Este es un cambio para validar la sincronizacion con **REMIX**
